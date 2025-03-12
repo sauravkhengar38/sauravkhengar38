@@ -17,4 +17,3 @@ Master Class Certificate – Data Science & AI by PW Skills & Shubham Bhatt (Mas
 🔍 Let's Connect:
 GitHub: https://github.com/sauravkhengar38
 LinkedIn: linkedin.com/in/saurav-khengar-81587526a/
-Portfolio: 
