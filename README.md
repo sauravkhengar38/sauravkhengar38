@@ -1,4 +1,4 @@
-👋 Hi, I'm Saurav Khengar | Future Data Engineer
+👋 Hi, I'm Saurav Khengar | Future Data Engineer<br>
 🚀 Entry-Level Data Engineer | Passionate about Data & Analytics
 <br>
 🛠️ Technical Skills:<br>
@@ -12,7 +12,7 @@ Building ETL pipelines for structured data
 Learning advanced SQL optimization techniques
 Exploring data modeling & cloud-based data solutions<br><br>
 📜 Certifications & Achievements:<br>
-Master Class Certificate – Data Science & AI by PW Skills & Shubham Bhatt (Mastercard)
-🔍 Let's Connect:
-GitHub: https://github.com/sauravkhengar38
+Master Class Certificate – Data Science & AI by PW Skills & Shubham Bhatt (Mastercard)<br>
+🔍 Let's Connect:<br>
+GitHub: https://github.com/sauravkhengar38<br>
 LinkedIn: https://linkedin.com/in/saurav-khengar-81587526a/
