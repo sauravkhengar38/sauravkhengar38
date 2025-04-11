@@ -14,5 +14,5 @@ Exploring data modeling & cloud-based data solutions<br><br>
 📜 Certifications & Achievements:<br>
 Master Class Certificate – Data Science & AI by PW Skills & Shubham Bhatt (Mastercard)<br><br>
 🔍 Let's Connect:<br>
-GitHub: https://github.com/sauravkhengar38<br>
+Portfolio: https://infosauravkhengar.netlify.app<br>
 LinkedIn: https://linkedin.com/in/saurav-khengar-81587526a/
