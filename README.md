@@ -1,5 +1,3 @@
-https://github.com/user-attachments/assets/618a11ad-b190-477f-b91a-49bcefced34a
-
 <br><br>
 🛠️ Technical Skills:<br>
 Programming: Python (Pandas, NumPy), SQL<br><br>
